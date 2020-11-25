@@ -8,6 +8,8 @@ class Index extends controller {
 
         // constract
 
+
+
     }
 
     function index(){
