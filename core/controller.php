@@ -8,7 +8,7 @@ class Controller {
     }
 
 
-    function view($viewUrl){     // index/index.php
+    function view($viewUrl){     // index/admin.php
 
 
         require ('views/'.$viewUrl.'.php');
